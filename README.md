@@ -2,7 +2,7 @@
 
 ### What the FOSS is this?
 
-My attempt to get a better grasp at the fundamentals of JavaScript using the command line, courtesy NodeSchool.io
+My attempt to get a better grasp at the fundamentals of JavaScript using the command line, courtesy [NodeSchool.io](http://www.nodeschool.io/)
 
 ---
 
